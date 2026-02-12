@@ -1,0 +1,12 @@
+{
+  "resourceName": "erpfinance",
+  "policyUUID": "e29a50c7",
+  "bucketName": "amplify-erp",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifys3upload-dev-90ee4-authRole",
+      "UnauthRoleArn": "arn:aws:iam::402686720131:role/amplify-amplifys3upload-dev-90ee4-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::402686720131:role/amplify-amplifys3upload-dev-90ee4-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifys3upload-dev-90ee4-deployment",
+      "UnauthRoleName": "amplify-amplifys3upload-dev-90ee4-unauthRole",
+      "StackName": "amplify-amplifys3upload-dev-90ee4",
+      "StackId": "arn:aws:cloudformation:us-east-1:402686720131:stack/amplify-amplifys3upload-dev-90ee4/6058b180-0766-11f1-8ac2-0affe5514849",
+      "AmplifyAppId": "dqwb7rkd7mkes"
+    },
+    "categories": {
+      "auth": {
+        "amplifys3upload37f1dce8": {}
+      },
+      "storage": {
+        "erpfinance": {}
+      }
+    }
+  }
+}
